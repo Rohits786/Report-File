@@ -1,0 +1,66 @@
+Technology	Course Name	Link	Description	Duration	Level	Manjunath	Anjalin	Anusha	Chaitra	Aman	Nithish	Nivedita	Manisha	Suchitra	Rakshit	Shilpa
+Microsoft Azure	Mastering Azure App Service, Part 2: Building Azure API Apps	https://mva.microsoft.com/en-US/training-courses/mastering-azure-app-service-part-2-building-azure-api-apps-16830?l=jI6yrcY4C_9605918563	"Learn what Azure API Apps are.
+Learn what problems Azure API Apps solve.
+See how to use Azure API Apps to implement scalable and secure APIs in the cloud.
+Get started with Azure API Apps.
+Learn about developing APIs.
+Take a look at discovery with Swagger and Swashbuckle.
+Learn about API authentication and deployment.
+Explore the topic of consuming APIs."	1 hr - 0 assessment	Advanced											
+Microsoft Azure	Microsoft Azure Fundamentals	https://mva.microsoft.com/en-US/training-courses/microsoft-azure-fundamentals-8391	"Series Introduction
+Why Microsoft Azure?
+The Scope of Microsoft Azure Services
+Tools and APIs You Use to Access Azure
+Navigating the Azure Portal and the Preview Portal
+Creating an Organizational Account and Subscription
+Understanding Subscriptions and Directories
+How Do I: Manage Directories
+How Do I: Manager Users, Subscriptions Roles, and Directory Roles
+How Do I: Manage Subscriptions and Service Administrators
+Understanding Geos, Regions, and Datacenters"	3 hr - 10 assessment	Intermediate											
+Microsoft Azure	Deploying Web Apps to Azure App Service	https://mva.microsoft.com/en-US/training-courses/deploying-web-apps-to-azure-app-service-16629?l=dcyeRCTpC_5804300477	"Get an overview of Microsoft Azure App Service.
+Learn about deploying ASP.NET applications.
+Find out about deploying Node.JS applications."	1 hr - 0 assessment	Beginner											
+.net Core	ASP.NET Core 1.0	https://mva.microsoft.com/en-US/training-courses/intermediate-aspnet-core-10-16964?l=Kvl35KmJD_4306218965	"Learn about basic Tag Helpers and making your own custom Tag Helpers.
+Look at authentication with ASP.NET Core 1.0.
+See how to build custom middleware.
+Learn how to use dependency injection (DI) to register and resolve application services.
+See how to build a sample API in ASP.NET Core.
+See the importance of single-page applications (SPAs) and how to create a new Angular 2 application.
+Find out how to install and use Yeoman and Webpack.
+Find out how to get started with Entity Framework Core, and learn about database migrations.
+Learn to scaffold a DbContext from an existing database.
+Learn about dotnet publish and pack, and explore deployment using Visual Studio.
+Learn about deployment via Git and continuous deployment"	4 hr - 0 assessment	Intermediate											
+Web- HTML-CSS-Js	The Modern Web Platform Jump Start	https://mva.microsoft.com/en-US/training-courses/the-modern-web-platform-jump-start-8337?l=9nnmf5ay_4804984382	Understand about Modern Web Platforms.	5hr - 6 assessment	Intermediate											
+Web-Angular Js	Introduction to AngularJS	https://mva.microsoft.com/en-US/training-courses/introduction-to-angularjs-8682?l=qJ8KNLH1_1804984382	"Getting Started: About AngularJS, Binding, and Modules
+Angular Controllers
+Expressions & Filters
+Directives
+View Management, and UI-Router
+Factory, Provider, Services"	4 hr - 6 assessment	Intermediate											
+Sql Server	Developing Microsoft SQL Server Databases	https://mva.microsoft.com/en-US/training-courses/developing-microsoft-sql-server-databases-8482?l=0VDB2vXz_2004984382	Implement a SQL Server 2014 database	5 hr - 6 assessment	Advanced											
+Web-Api	Web API Design Jump Start	https://mva.microsoft.com/en-US/training-courses/web-api-design-jump-start-8689?l=BMxSvaH1_3804984382	"Introduction
+Basic Design
+Configuration
+Error Handling
+Security
+Advanced Design"	5hr -6 assessment	Intermediate											
+Sql Server	Designing Solutions for SQL Server	https://mva.microsoft.com/en-US/training-courses/designing-solutions-for-sql-server-8484?l=HN0uqzXz_3704984382	"Managing a SQL Server Environment
+Designing Database Security
+Designing a Backup and Recovery Solution
+Designing a High-Availability Solution
+Troubleshooting and Maintaining a Database"	5hr -6 assessment	Advanced											
+Web-Angular 2	Introduction to Angular 2.0	https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540?l=cdKMEZyfC_906218965	"Get an overview of Angular 2.0.
+Get an introduction to TypeScript.
+Take a look at the big picture.
+Explore the building blocks of Angular 2.0.
+Learn to connect the blocks.
+Get the details on the build process."	2 hr - 0 assessment	Intermediate											
+Web-MVC	Introduction to ASP.NET MVC	https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-mvc-8322?l=nKZwZ8Zy_3504984382	Learn about ASP.NET MVC.	6hr- 7 assessment	Intermediate											
+MVC entity framework	Implementing Entity Framework with MVC	https://mva.microsoft.com/en-US/training-courses/implementing-entity-framework-with-mvc-8931?l=e2H2lDC3_8304984382	"Entity Framework
+Beginning Code First
+Managing Relationships
+Managing the Database
+Managing Transactions
+Integrating Extra Features and Looking Forward"	5hr -6 assessment	Intermediate											
